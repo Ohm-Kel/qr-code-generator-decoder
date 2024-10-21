@@ -1,0 +1,8 @@
+# Acknowledgments
+
+- **qrcode**: A library for generating QR codes in Python. [GitHub Repository](https://github.com/lincolnloop/python-qrcode)
+- **OpenCV**: An open-source computer vision and machine learning software library. [OpenCV Website](https://opencv.org/)
+- **Pillow**: The friendly PIL fork (Python Imaging Library). [Pillow Documentation](https://python-pillow.org/)
+- **Cryptography**: A package designed to expose cryptographic recipes and primitives to Python developers. [Cryptography Documentation](https://cryptography.io/)
+
+We appreciate the contributions and hard work of the developers behind these libraries. Their efforts have made this project possible!
